@@ -1,0 +1,7 @@
+com\apipagamentos\model\Descricao.class
+com\apipagamentos\configuration\Swagger2UiConfiguration.class
+com\apipagamentos\controller\APIPagamentosController.class
+com\apipagamentos\model\Pagamento.class
+com\apipagamentos\APIPagamentosApplication.class
+com\apipagamentos\model\FormaPagamento.class
+com\apipagamentos\model\Transacao.class
